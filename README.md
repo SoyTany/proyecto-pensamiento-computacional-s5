@@ -3,5 +3,5 @@
 _Facultad Arquitectura, Arte, Diseño **de la Universidad Diego Portales**_  
 
 **Profesor**: Matías Serrano  
-**Integrantes**: Crhistian Petit-Laurent, Florenica Valencia y Catalina Vergara  
+**Integrantes**: Christian Petit-Laurent, Florencia Valencia y Catalina Vergara  
 **DISEÑO UDP**
