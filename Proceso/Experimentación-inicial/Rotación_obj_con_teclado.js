@@ -1,4 +1,4 @@
-// https://editor.p5js.org/Tanytanita/sketches/fIGxSduSq
+// link: https://editor.p5js.org/Tanytanita/sketches/fIGxSduSq
 
 let violeta = 280;
 let amarillo = 60;
