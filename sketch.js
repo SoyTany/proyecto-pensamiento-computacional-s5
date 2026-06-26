@@ -293,7 +293,7 @@ push();
 
 //-------------IMAGENES MENU ZAGREUS, HADES
   
-  image(hadesLogo, 130, desplazamientoY, 1700, 450)
+  image(hadesLogo, 130, desplazamientoY, 1700, 500);
   image(zagreusMenu, 800, desplazamientoY, 1500, height + 3);
   
 //-------------IMAGENES MENU ZAGREUS, HADES
