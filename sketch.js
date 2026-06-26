@@ -249,6 +249,7 @@ function dibujarMenuGeneral(cx, cy){
   rect(40, 40, width - 80, height - 80, 15);
 }
 function dibujarMenuPrincipal(cx, cy) {
+  push();
   let margenX = width * 0.04;
   let margenY = height * 0.05;
   let marcoW = width - (margenX * 2);
@@ -283,7 +284,7 @@ push();
   fill(150, 0, 100);
   textSize(24);
   textFont(spectral);
-  text("ENCICLOPEDIA DE", margenX + 15, (height * 0.15) + desplazamientoY);
+  text("ENCICLOPEDIA DE", margenX + 15, (height - 760)+ desplazamientoY);
 
   noFill();
   strokeWeight(width * 0.003 + 1);
@@ -292,8 +293,8 @@ push();
 
 //-------------IMAGENES MENU ZAGREUS, HADES
   
-  image(hadesLogo, 100, desplazamientoY, 1050, 420)
-  image(zagreusMenu, 400, desplazamientoY, 1100, height + 3);
+  image(hadesLogo, 130, desplazamientoY, 1700, 450)
+  image(zagreusMenu, 800, desplazamientoY, 1500, height + 3);
   
 //-------------IMAGENES MENU ZAGREUS, HADES
   
@@ -307,6 +308,7 @@ push();
     btn.alfa = calcularBrillo(x, btn.y, btnW, btnH, btn.alfa);
     dibujarBotonProgresivo(x, btn.y, btnW, btnH, btn.texto, btn.hue, btn.sat, btn.bri, btn.alfa);
   }
+  pop();
 }
 function dibujarMenuPersonajes(cx, cy) {
   let anchoReal = cardW - 60; // 260px reales
@@ -517,11 +519,9 @@ cursor(ARROW);
 }
 function dibujarMenuObjetos(cx, cy){
  push();
-  push();
   fill(359, 95, 8); // Color de fondo burdeos oscuro
   rectMode(CORNER);
   rect(50, 40, width - 100, height - 115, 15);
-  pop();
   
   if (subPantallaObjetos === 0) {
     dibujarPantallaFila();
@@ -534,6 +534,7 @@ function dibujarMenuObjetos(cx, cy){
   strokeWeight(width * 0.003 + 1);
   stroke(21, 95, 60); 
   rect(50, 40, width - 100, height - 115, 15);
+  pop();
 }
 function dibujarPantallaFila() {
   textFont(caesar); // Enlazado con tu fuente cargada
@@ -614,13 +615,6 @@ function dibujarPantallaDetalle() {
   text(obj.desc, 90, 180, 380, 320); 
   
   image(obj.img, width * 0.55, height / 2, 250, 250);
-  
-  push();
-  fill(0, 0, 50);
-  textFont(spectral);
-  textSize(11);
-  text("HAZ CLICK DERECHO O PULSA ESC PARA VOLVER", 90, height - 100);
-  pop();
 }
 function mouseWheel(event) {
   if (pantallaActual === "objetos" && subPantallaObjetos === 1) {
