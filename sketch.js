@@ -284,7 +284,7 @@ push();
   fill(150, 0, 100);
   textSize(24);
   textFont(spectral);
-  text("ENCICLOPEDIA DE", margenX + 15, (height - 760)+ desplazamientoY);
+  text("ENCICLOPEDIA DE", margenX + 15, (height - 800)+ desplazamientoY);
 
   noFill();
   strokeWeight(width * 0.003 + 1);
