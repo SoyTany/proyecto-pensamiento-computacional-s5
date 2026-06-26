@@ -138,7 +138,7 @@ function dibujarMenuPersonajes(cx, cy) {
   let xNicte = cx - anchoReal / 2;
   let xZagreus = xNicte - anchoReal - espacioEntreTarjetas;
 
-  // CONTROL DE TRANSICIÓN INTERNA (Estilo Alicia)
+  // CONTROL DE TRANSICIÓN INTERNA 
   // Si 'tarjetaAbierta' es true va a 500 (Detalle), si es false va a 220 (Lista)
   let altoObjetivoZag = tarjetaAbierta ? 500 : 220;
   altoTarjeta = lerp(altoTarjeta, altoObjetivoZag, 0.1);
@@ -177,7 +177,7 @@ function dibujarMenuPersonajes(cx, cy) {
   let xNicte = cx - anchoReal / 2;
   let xZagreus = xNicte - anchoReal - espacioEntreTarjetas;
 
-  // CONTROL DE TRANSICIÓN INTERNA (Estilo Alicia)
+  // CONTROL DE TRANSICIÓN INTERNA 
   // Si 'tarjetaAbierta' es true va a 500 (Detalle), si es false va a 220 (Lista)
   let altoObjetivoZag = tarjetaAbierta ? 500 : 220;
   altoTarjeta = lerp(altoTarjeta, altoObjetivoZag, 0.1);
