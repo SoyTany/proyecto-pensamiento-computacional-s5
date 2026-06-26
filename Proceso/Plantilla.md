@@ -16,7 +16,8 @@ Informacion recopilada de la wiki oficial del juego: [Hades Wiki](https://hades.
 
 ### Imagen de referencia de proyecto
 
-Deja acá una imagen de la "portada" de tu proyecto. Como si fuera un afiche. Puede ser un fotograma de toda la interacción.
+<img width="1314" height="704" alt="menu examen" src="https://github.com/user-attachments/assets/46bf3ae1-e218-492d-85aa-ae795613f375" />
+
 
 ### Integrantes
 
