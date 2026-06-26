@@ -16,7 +16,7 @@ Nyx, a veces llamada "Madre Noche", es la personificación de la noche y habita 
 Cumpliéndose la profecía de que Hades carecería de heredero, Perséfone dio a luz a un hijo sin vida; desolada por ello, ella se marchó indefinidamente. Nyx cerró un acuerdo inquebrantable con el inescrutable Destino para devolver a Zagreo a la vida. Sin embargo, el resultado fue un hijo atormentado, incapaz de residir en el mundo superior durante un periodo prolongado.
 Nyx gobierna el inframundo junto a Hades y apoya profundamente el deseo de Zagreus de marcharse. Fue la primera en apoyarlo incondicionalmente y en contactar a los dioses olímpicos para ayudarlo a escapar. Nunca se sintió cómoda mintiéndole, pues era incapaz de mirar a Zagreo sin sentir culpa y responsabilidad por las condiciones que lo atan al reino del inframundo.
 
-###Perséfone 
+### Perséfone 
 
 Perséfone es la diosa de la vegetación, la madre biológica de Zagreo y la hija de Deméter y un joven campesino mortal.
 Originaria del Olimpo, se casó con Hades y gobernó junto a él como Reina del Inframundo, antes de marcharse misteriosamente tras el nacimiento de Zagreo. Después de su partida, Hades prohibió que se la mencionara en la Casa, haciendo que su hijo creciera sin conocer la identidad de su madre.
