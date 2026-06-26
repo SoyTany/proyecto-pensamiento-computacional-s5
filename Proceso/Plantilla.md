@@ -39,7 +39,8 @@ Contamos la historia a través de las descripciones de los múltiples personajes
 
 ### Storyboard
 
-Imágenes del storyboard, las que deben verse acá y estar subidas en el mismo repositorio
+<img width="3711" height="2085" alt="storyboard" src="https://github.com/user-attachments/assets/8ed41904-163f-422c-90d0-9b714db3fe78" />
+
 
 ### Estados
 
