@@ -2,7 +2,7 @@
 
 ## Link de web pública (github pages)
 
-<https://link.com>
+<https://soytany.github.io/proyecto-pensamiento-computacional-s5/>
 
 ### Título del proyecto
 
